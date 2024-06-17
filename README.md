@@ -9,5 +9,5 @@
 - [time_series.ipynb](time_series.ipynb) - исследование требований Банка России к кредитным организациям по кредитам
 
 Работал:
-Сидоров Артемий [@sidi_klerk] (https://www.github.com/sgwps)
+Сидоров Артемий [@sidi_klerk] 
 
