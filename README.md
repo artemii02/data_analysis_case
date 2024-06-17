@@ -8,6 +8,6 @@
 - [binary_regression.ipynb](binary_regression.ipynb) - исследование факторов, влияющие на итоги маркетинговой компании банка;
 - [time_series.ipynb](time_series.ipynb) - исследование требований Банка России к кредитным организациям по кредитам
 
-Работали:
+Работал:
 Сидоров Артемий [@sidi_klerk] (https://www.github.com/sgwps)
 
